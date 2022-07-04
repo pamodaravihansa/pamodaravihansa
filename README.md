@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Pamoda Ravihansa👋
 
 <!--
 **pamodaravihansa/pamodaravihansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Pamoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamodaravihansa)](https://github.com/pamodaravihansa/github-readme-stats)
