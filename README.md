@@ -1,8 +1,6 @@
 ### Hi there I'm Pamoda Ravihansa👋
 I am Information Technology undergraduate from SLIIT.  I am passionate and enthusiastic about Flutter App development and UI/UX design. 
 <br>
-
-</br>
 <!--
 **pamodaravihansa/pamodaravihansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
