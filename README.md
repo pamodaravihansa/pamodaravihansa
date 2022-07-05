@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/pamodaravihansa/github-readme-stats"><img alt="Pamoda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pamodaravihansa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href=""><img alt="Pamoda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pamodaravihansa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/pamodaravihansa/github-readme-stats"><img alt="Pamoda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamodaravihansa&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href=""><img alt="Pamoda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamodaravihansa&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
