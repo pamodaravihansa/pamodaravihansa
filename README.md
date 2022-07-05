@@ -1,5 +1,5 @@
 ### Hi there I'm Pamoda Ravihansa👋
-I am Information Technology undergraduate from SLIIT.  I am passionate and enthusiastic about Flutter App development and UI/UX design. 
+I am Information Technology undergraduate from SLIIT.  I am passionate and enthusiastic about learning new skills. 
 <br>
 <br>
 <!--
