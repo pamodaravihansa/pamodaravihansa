@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <p align="center">
     <table align="center">
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
         </tr>
    </table>
 </p>
+-->
 
 <br/>
 <table>
